@@ -1,0 +1,5 @@
+{
+  "name": "PhysLLM.js ",
+  "description": "A high-fidelity, deterministic physics simulation library designed specifically for Large Language Models. Prioritizing accuracy, token-efficiency, and structured data output.",
+  "requestFramePermissions": []
+}
